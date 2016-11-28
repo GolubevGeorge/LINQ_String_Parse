@@ -1,0 +1,6 @@
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\bin\Debug\LINQStringParse.exe.config
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\obj\Debug\LINQStringParse.csprojResolveAssemblyReference.cache
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\bin\Debug\LINQStringParse.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\bin\Debug\LINQStringParse.pdb
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\obj\Debug\LINQStringParse.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\LINQStringParse\LINQStringParse\obj\Debug\LINQStringParse.pdb
